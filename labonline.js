@@ -1,11 +1,10 @@
-// Created by Rudi Thiel
 // ==UserScript==
 // @name         Lab Online
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Automate boring and almost impossible lab online tasks
-// @author       You
-// @match        http://www.lab-on-line.com/*
+// @author       Rudi Thiel
+// @match        www.lab-on-line.com/*
 // @grant        none
 // ==/UserScript==
 
